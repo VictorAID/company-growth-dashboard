@@ -1,0 +1,51 @@
+Product,Category,Region,Month,Units Sold,Unit Price ($),Revenue ($)
+Mouse,Office Equipment,North,2023-04-01,242,826.87,200102.54
+Monitor,Office Equipment,South,2023-04-01,189,180.92,34193.88
+Printer,Accessories,East,2023-05-01,122,1261.19,153865.18
+Headphones,Electronics,South,2023-07-01,327,515.13,168447.51
+Mouse,Accessories,North,2023-07-01,451,320.45,144522.95
+Speaker,Accessories,West,2023-11-01,61,109.12,6656.32
+Tablet,Accessories,East,2023-04-01,277,906.79,251180.83
+Mouse,Accessories,North,2023-07-01,304,1032.47,313870.88
+Printer,Accessories,West,2023-11-01,395,74.05,29249.75
+Headphones,Accessories,West,2023-03-01,396,792.53,313841.88
+Monitor,Accessories,South,2023-06-01,122,378.42,46167.24
+Printer,Electronics,North,2023-12-01,110,985.5,108405.0
+Printer,Office Equipment,West,2023-02-01,122,302.83,36945.26
+Tablet,Accessories,East,2023-10-01,449,1051.86,472285.14
+Keyboard,Accessories,East,2023-09-01,90,610.77,54969.3
+Headphones,Accessories,South,2023-05-01,196,1408.26,276018.96
+Phone,Accessories,West,2023-06-01,122,249.41,30428.02
+Printer,Accessories,North,2023-12-01,11,544.55,5990.05
+Keyboard,Accessories,East,2023-12-01,139,214.54,29821.06
+Phone,Office Equipment,West,2023-12-01,229,1390.81,318495.49
+Headphones,Office Equipment,West,2023-12-01,63,1322.14,83294.82
+Laptop,Accessories,South,2023-04-01,352,424.02,149255.04
+Speaker,Office Equipment,East,2023-11-01,494,1006.98,497448.12
+Keyboard,Electronics,East,2023-10-01,233,1234.97,287748.01
+Camera,Accessories,North,2023-07-01,234,855.04,200079.36
+Laptop,Electronics,East,2023-12-01,394,817.99,322288.06
+Speaker,Electronics,North,2023-09-01,412,400.69,165084.28
+Tablet,Accessories,East,2023-07-01,135,185.0,24975.0
+Mouse,Office Equipment,South,2023-01-01,139,1350.96,187783.44
+Monitor,Electronics,East,2023-01-01,62,1355.61,84047.82
+Camera,Accessories,North,2023-09-01,181,968.0,175208.0
+Tablet,Electronics,North,2023-11-01,227,541.59,122940.93
+Headphones,Electronics,South,2023-09-01,169,556.35,94023.15
+Tablet,Electronics,East,2023-04-01,207,1102.64,228246.48
+Mouse,Electronics,East,2023-09-01,425,1350.81,574094.25
+Headphones,Office Equipment,South,2023-03-01,256,1336.28,342087.68
+Camera,Electronics,East,2023-07-01,333,1180.82,393213.06
+Mouse,Electronics,East,2023-06-01,448,980.95,439465.6
+Phone,Electronics,North,2023-08-01,212,172.0,36464.0
+Monitor,Office Equipment,East,2023-11-01,193,284.36,54881.48
+Camera,Electronics,East,2023-09-01,132,1352.9,178582.8
+Phone,Electronics,South,2023-05-01,410,929.32,381021.2
+Speaker,Office Equipment,South,2023-01-01,264,63.34,16721.76
+Camera,Office Equipment,West,2023-03-01,303,197.13,59730.39
+Speaker,Office Equipment,North,2023-10-01,289,1012.08,292491.12
+Headphones,Electronics,East,2023-12-01,334,57.34,19151.56
+Phone,Office Equipment,East,2023-08-01,381,283.17,107887.77
+Monitor,Office Equipment,West,2023-11-01,107,845.66,90485.62
+Mouse,Electronics,East,2023-06-01,207,1053.25,218022.75
+Printer,Office Equipment,North,2023-08-01,479,995.34,476767.86
